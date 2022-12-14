@@ -2,4 +2,4 @@
 
 Bienvenido a mi Pagina
 
-Link: http//JhordyGraciaBB.github.io/curriculum17/
+Link:http//JhordyGraciaBB.github.io/curriculum17/
